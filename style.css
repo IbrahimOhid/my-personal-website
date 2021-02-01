@@ -1,0 +1,130 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    color: rgb(243, 14, 49);;
+    font-weight: 800;
+}
+h3{
+    font-size: 30px;
+}
+h2{
+   font-size: 40px;
+}
+h6{
+   color: gray;
+}
+p{
+    color: gray;
+    padding-bottom: 15px;
+}
+.b{
+    color: black;
+    font-size: 14px;
+}
+.black1{
+    width: 30%;
+    align-items: center;
+    margin-left: 35%;   
+}
+.black2{
+    text-align: center;
+    font-size: 12px;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 3%;
+}
+.half-width img{
+    width:100%;
+}
+section{
+    height: 600px;
+    
+}
+.header-bg{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+.link-button{
+    background-color: rgb(243, 14, 49);;
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+#move{
+    padding-top: 150px;
+    padding-left: 100px;
+}
+#move1{
+    padding-top: 60px;
+    padding-right: 100px;
+}
+.biography{
+   background-image: url(images/biography-bg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.center{
+    text-align: center;
+}
+.center1{
+    text-align: center;
+    padding-top: 20px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.work{
+    width: 30%;
+    display: flex;
+    margin: 50px 60px;
+}
+.work img{
+    width: 100%;
+}
+.footer{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact{
+    align-items: center;
+}
+.contact2{
+    width: 50%;
+    height: 140px;
+    align-items: center;
+    background-color: rgb(243, 14, 49);
+    padding: 20px 20px;
+    margin-left: 350px;
+    text-align: center;
+    border-radius: 10px;
+}
+.message{
+    color: white;
+    font-size: 14px;
+}
+.email{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.color{
+    text-align: center;
+}
+.center1{
+    color:cornflowerblue;}
+
+
+
